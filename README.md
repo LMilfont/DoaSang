@@ -33,3 +33,8 @@ APP
 - Foi utilizada a biblioteca fl_chart para os gráficos.
 - O State Management utilizado no Flutter foi o "Provider".
 
+## Screenshots
+
+Aqui estão as imagens das telas:
+
+- [Obesos/Sexo](screenshots/screenshot_01.jpeg)
