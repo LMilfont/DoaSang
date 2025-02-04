@@ -10,6 +10,7 @@ Escrita em Spring Boot, usando banco de dados MySql. Expõe no formato REST/JSON
 Observações:
 
 - É preciso adicionar manualmente a biblioteca "lombok.jar" ao build path em algumas versões do Eclipse.
+   - O arquivo lombok.jar está localizado na pasta "/lib".
 - Arquivo data.sql possui alguns scripts DDL para geração automática de objetos no banco de dados.
 - O banco de dados é criado automaticamente no MySQL na primeira vez em que a API é executada.
 - Um usuário "usuario1" com senha "password" é criado automaticamente no banco.
