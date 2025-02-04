@@ -37,4 +37,4 @@ APP
 
 Aqui estão as imagens das telas:
 
-![Obesos/Sexo](screenshots/screenshot_01.jpeg | width=100)
+![Obesos/Sexo](screenshots/screenshot_01.jpeg)
