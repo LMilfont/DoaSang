@@ -37,4 +37,4 @@ APP
 
 Aqui estão as imagens das telas:
 
-![Obesos/Sexo](screenshots/screenshot_01.jpeg)
+<img src="/LMilfont/DoaSang/raw/main/screenshots/screenshot_01.jpeg" alt="Obesos/Sexo" width="200">
