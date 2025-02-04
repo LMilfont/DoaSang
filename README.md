@@ -22,6 +22,9 @@ Observações:
 
 APP
 
+- O APP foi desenvolvido em Flutter com a IDE Android Studio.
+- Foi utilizada a biblioteca fl_chart para os gráficos.
+- O State Management utilizado no Flutter foi o "Provider".
 - O arquivo JSON payload_candidatos está na pasta "/assets".
    - Ele é enviado pelo APP para a API na primeira execução.
 
@@ -29,9 +32,6 @@ APP
   * Usuário e senha de autenticação para a API.
   * IP da API (constante URL_API_DEV). Importante especificar corretamente.
 
-- O APP foi desenvolvido no Android Studio.
-- Foi utilizada a biblioteca fl_chart para os gráficos.
-- O State Management utilizado no Flutter foi o "Provider".
 
 ## Screenshots
 
